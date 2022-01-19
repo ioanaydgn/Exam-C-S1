@@ -1,0 +1,3 @@
+/home/ioanaydgn/CLionProjects/Sinav/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ioanaydgn/CLionProjects/Sinav/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ioanaydgn/CLionProjects/Sinav/cmake-build-debug/CMakeFiles/Sinav.dir
